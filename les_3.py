@@ -18,5 +18,13 @@ if operation == "/":
     else:
         print(number_n1 / number_n2)
 
+print("Мій список")
 
+my_list = [6, 9, 3, 4, 45, 78, 100]
+if my_list == [] :
+    print(my_list)
+elif my_list [0:] :
+    (my_list.insert(0, my_list[-1]))
+    (my_list.pop (-1))
+    print(my_list)
 
